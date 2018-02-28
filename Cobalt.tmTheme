@@ -179,7 +179,19 @@
 				<string>#ff8c00</string>
 			</dict>
 		</dict>
-
+		<dict>
+			<key>name</key>
+			<string>Function argument</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#fff</string>
+			</dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
@@ -191,6 +203,19 @@
 				<string>#800F00</string>
 				<key>foreground</key>
 				<string>#F8F8F8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library class/type</string>
+			<key>scope</key>
+			<string>support.type, support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6699cc</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
