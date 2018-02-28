@@ -1,14 +1,15 @@
-# Legacy Color Schemes
+# Legacy Color Schemes - Updated Cobalt
 
-These are color schemes that were part of Sublime Text 2 and older builds
-of Sublime Text 3. They are no longer maintained, but are available via
-[Package Control](https://packagecontrol.io/packages/Color%20Scheme%20-%20Legacy).
+Fork of color schemes that were part of Sublime Text 2 and older builds
+of Sublime Text 3.
+
+In this repo, I have updated Cobalt theme to work with Sublime Text 3 for at least most important parts.
 
 ## Installation
 
- - Install [Package Control](https://packagecontrol.io/installation)
- - Run the **Package Control: Install Package** command from the *Command Palette*
- - Type "Color Scheme - Legacy" and press *Enter*
+- Clone this repo to your Sublime Text 3/Packages/User/ folder.
+- You can find this folder from Sublime Text menu bar Preferences -> Browse Packages...
+- This is not available throufg package control
 
 ## Usage
 
