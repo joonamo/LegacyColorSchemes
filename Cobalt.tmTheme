@@ -161,13 +161,25 @@
 			<key>name</key>
 			<string>Function Call</string>
 			<key>scope</key>
-			<string>meta.function-call</string>
+			<string>variable.function, variable.annotation</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#FFEE80</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library function</string>
+			<key>scope</key>
+			<string>support.function, support.macro</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff8c00</string>
+			</dict>
+		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
