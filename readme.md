@@ -1,4 +1,4 @@
-# Legacy Color Schemes - Updated Cobalt
+# Sublime Text 3 Legacy Color Schemes - Updated Cobalt
 
 Fork of color schemes that were part of Sublime Text 2 and older builds
 of Sublime Text 3.
